@@ -1,0 +1,169 @@
+[main] 2021-08-17 21:32:13 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 21:32:13 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:32:13 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 21:32:13 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:32:13 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 21:32:13 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 21:32:13 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 21:32:26 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-17 21:32:43 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-17 21:32:50 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-17 21:33:33 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-17 21:33:48 WARN  com.online_shopping.Main  - Invalid Inputs
+[main] 2021-08-17 21:33:48 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-17 21:33:48 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 21:33:48 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:33:48 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 21:33:48 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:33:48 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 21:33:48 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 21:33:48 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 21:34:20 WARN  com.online_shopping.Main  - java.lang.NumberFormatException: For input string: ""
+[main] 2021-08-17 21:34:20 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-17 21:34:41 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-17 21:34:46 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-17 21:34:57 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-17 21:35:24 WARN  com.online_shopping.Main  - Invalid Inputs
+[main] 2021-08-17 21:35:24 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-17 21:35:24 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 21:35:24 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:35:24 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 21:35:24 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:35:24 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 21:35:24 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 21:35:24 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 21:35:55 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-17 21:36:03 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-17 21:36:06 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-17 21:36:16 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-17 21:36:28 WARN  com.online_shopping.Main  - Invalid Inputs
+[main] 2021-08-17 21:36:28 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-17 21:36:28 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 21:36:28 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:36:28 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 21:36:28 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:36:28 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 21:36:28 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 21:36:28 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 21:40:27 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 21:40:27 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:40:27 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 21:40:27 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:40:27 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 21:40:27 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 21:40:27 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 21:40:30 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-17 21:40:43 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-17 21:40:56 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-17 21:41:16 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-17 21:41:38 WARN  com.online_shopping.Main  - Invalid Inputs
+[main] 2021-08-17 21:41:38 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-17 21:41:38 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 21:41:38 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:41:38 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 21:41:38 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:41:38 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 21:41:38 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 21:41:38 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 21:43:29 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 21:43:29 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:43:29 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 21:43:29 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:43:29 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 21:43:29 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 21:43:29 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 21:43:33 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-17 21:43:38 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-17 21:43:42 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-17 21:44:08 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-17 21:44:21 WARN  com.online_shopping.Main  - Invalid Inputs
+[main] 2021-08-17 21:44:21 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-17 21:44:21 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 21:44:21 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:44:21 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 21:44:21 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 21:44:21 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 21:44:21 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 21:44:21 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 22:05:02 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 22:05:02 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 22:05:02 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 22:05:02 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 22:05:02 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 22:05:02 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 22:05:02 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 22:05:05 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-17 22:05:11 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-17 22:05:15 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-17 22:05:27 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-17 22:05:37 WARN  com.online_shopping.Main  - Invalid Inputs
+[main] 2021-08-17 22:05:37 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-17 22:05:37 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 22:05:37 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 22:05:37 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 22:05:37 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 22:05:37 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 22:05:37 INFO  com.online_shopping.Main  - register 
+[main] 2021-08-17 22:05:37 INFO  com.online_shopping.Main  -  login  
+[main] 2021-08-17 23:42:56 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 23:42:56 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 23:42:56 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 23:42:56 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 23:42:56 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 23:42:56 INFO  com.online_shopping.Main  - 1)register 
+[main] 2021-08-17 23:42:56 INFO  com.online_shopping.Main  - 2) login  
+[main] 2021-08-17 23:43:08 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-17 23:43:13 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-17 23:43:18 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-17 23:43:32 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-17 23:43:52 WARN  com.online_shopping.Main  - Something went wrong contact admin
+[main] 2021-08-17 23:43:52 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-17 23:43:52 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 23:43:52 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 23:43:52 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 23:43:52 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 23:43:52 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 23:43:52 INFO  com.online_shopping.Main  - 1)register 
+[main] 2021-08-17 23:43:52 INFO  com.online_shopping.Main  - 2) login  
+[main] 2021-08-17 23:48:13 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-17 23:48:31 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-17 23:48:41 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-17 23:48:57 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-17 23:49:18 WARN  com.online_shopping.Main  - Something went wrong contact admin
+[main] 2021-08-17 23:49:18 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-17 23:49:18 INFO  com.online_shopping.Main  - 
+[main] 2021-08-17 23:49:18 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 23:49:18 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-17 23:49:18 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-17 23:49:18 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-17 23:49:18 INFO  com.online_shopping.Main  - 1)register 
+[main] 2021-08-17 23:49:18 INFO  com.online_shopping.Main  - 2) login  
+[main] 2021-08-18 01:39:05 INFO  com.online_shopping.Main  - 
+[main] 2021-08-18 01:39:05 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-18 01:39:05 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-18 01:39:05 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-18 01:39:05 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-18 01:39:05 INFO  com.online_shopping.Main  - 1)register 
+[main] 2021-08-18 01:39:05 INFO  com.online_shopping.Main  - 2) login  
+[main] 2021-08-18 01:39:08 INFO  com.online_shopping.Main  - Enter your first_name : 
+[main] 2021-08-18 01:39:14 INFO  com.online_shopping.Main  - Enter your last_name : 
+[main] 2021-08-18 01:39:18 INFO  com.online_shopping.Main  - Enter your email : 
+[main] 2021-08-18 01:39:32 INFO  com.online_shopping.Main  - Enter your password : 
+[main] 2021-08-18 01:39:45 WARN  com.online_shopping.Main  - Something went wrong contact admin
+[main] 2021-08-18 01:39:45 INFO  com.online_shopping.Main  - 
+Returning to Main Menu...
+[main] 2021-08-18 01:39:45 INFO  com.online_shopping.Main  - 
+[main] 2021-08-18 01:39:45 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-18 01:39:45 INFO  com.online_shopping.Main  -     Welcome To Online Shopping
+[main] 2021-08-18 01:39:45 INFO  com.online_shopping.Main  - -----------------------------
+[main] 2021-08-18 01:39:45 INFO  com.online_shopping.Main  - Select Any 1 option...
+[main] 2021-08-18 01:39:45 INFO  com.online_shopping.Main  - 1)register 
+[main] 2021-08-18 01:39:45 INFO  com.online_shopping.Main  - 2) login  

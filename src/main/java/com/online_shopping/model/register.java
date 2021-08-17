@@ -1,13 +1,15 @@
 package com.online_shopping.model;
 
-public class register {
+public class Register {
 	private int register_id;
+	private String register_first_name;
+	private String register_last_name;
 	private String register_email;
 	private String register_password;
 	
-	public  register(){
-
-}
+	public Register() {
+		
+	}
 
 	public int getRegister_id() {
 		return register_id;
@@ -15,6 +17,22 @@ public class register {
 
 	public void setRegister_id(int register_id) {
 		this.register_id = register_id;
+	}
+
+	public String getRegister_first_name() {
+		return register_first_name;
+	}
+
+	public void setRegister_first_name(String register_first_name) {
+		this.register_first_name = register_first_name;
+	}
+
+	public String getRegister_last_name() {
+		return register_last_name;
+	}
+
+	public void setRegister_last_name(String register_last_name) {
+		this.register_last_name = register_last_name;
 	}
 
 	public String getRegister_email() {
@@ -33,17 +51,15 @@ public class register {
 		this.register_password = register_password;
 	}
 
-	public register(int register_id, String register_email, String register_password) {
-		super();
-		this.register_id = register_id;
-		this.register_email = register_email;
-		this.register_password = register_password;
-	}
 
 	@Override
 	public String toString() {
-		return "register [register_id=" + register_id + ", register_email=" + register_email + ", register_password="
-				+ register_password + "]";
+		return "Register [register_id=" + register_id + ", register_first_name=" + register_first_name
+				+ ", register_last_name=" + register_last_name + ", register_email=" + register_email
+				+ ", register_password=" + register_password + "]";
 	}
+	
+	
+ 
 	
 }
